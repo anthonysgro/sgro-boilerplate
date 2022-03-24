@@ -3,4 +3,4 @@ A basic NERP boilerplate that will get your app onto a port quickly. Includes re
 
 ## How to Run
 - `npm i`
-- `npm run start:dev` for dev startup
+- `npm run start:dev`
